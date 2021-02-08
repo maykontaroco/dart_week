@@ -1,3 +1,4 @@
-# Dart Week training project
-This is a dart week project promoted by teacher Rodrigo Rahman.
-This project is just a copy of the sample code and was created for study purposes only.
+A web server built using [Shelf](https://pub.dev/packages/shelf).
+
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
